@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build artifacts
+dist/
+.next/
+
+# Environment variables
+.env
+.env.test
+
+# Coverage/Cache
+coverage
+.nyc_output
+.eslintcache
